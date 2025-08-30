@@ -1,4 +1,4 @@
-# Discord Clone - Java Console Edition
+# Discord Clone - Java Console 
 
 A comprehensive console-based Discord clone implemented in Java, showcasing all fundamental Object-Oriented Programming (OOP) principles through real-world application design.
 
@@ -204,14 +204,3 @@ This project serves as an excellent learning resource for:
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Inspired by Discord's excellent communication platform
-- Educational focus on demonstrating OOP principles
-- Built for learning and teaching object-oriented programming concepts
-
----
-
-**Note**: This is an educational project designed to demonstrate OOP principles. It's not intended for production use but serves as an excellent learning resource for understanding object-oriented design and implementation.
-
