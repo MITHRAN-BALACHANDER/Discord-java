@@ -2,7 +2,7 @@
 
 A comprehensive console-based Discord clone implemented in Java, showcasing all fundamental Object-Oriented Programming (OOP) principles through real-world application design.
 
-## 🎯 Project Overview
+##  Project Overview
 
 This project demonstrates a scalable communication platform that replicates Discord's core functionalities while maintaining clean, educational code that highlights OOP principles:
 
@@ -12,33 +12,33 @@ This project demonstrates a scalable communication platform that replicates Disc
 - **Abstraction**: Abstract Channel class defining contracts for different channel implementations
 - **Composition**: Server contains Channels, User contains FriendList, demonstrating "has-a" relationships
 
-## 🚀 Features
+##  Features
 
-### 👤 User Management
+###  User Management
 - **Registration & Authentication**: Secure user registration with password hashing
 - **Role-based Access Control**: Admin, Moderator, and Member roles with different permissions
 - **Session Management**: Login/logout with online status tracking
 - **Friend System**: Add/remove friends with direct messaging capabilities
 
-### 🏢 Server Management
+###  Server Management
 - **Create/Delete Servers**: Full server lifecycle management
 - **Invite System**: Unique invite codes for server joining
 - **Member Management**: Kick, ban, and role assignment capabilities
 - **Multi-server Support**: Users can join multiple servers simultaneously
 
-### 💬 Communication
+###  Communication
 - **Text Channels**: Real-time text messaging with edit/delete capabilities
 - **Voice Channels**: Simulated voice chat with connection management
 - **Direct Messages**: Private messaging between friends
 - **Message History**: Persistent message storage and search functionality
 
-### 🔧 Advanced Features
+###  Advanced Features
 - **Permission System**: Role-based command execution
 - **Channel Moderation**: Mute/unmute users in specific channels
 - **Message Management**: Edit, delete, and search message history
 - **Voice Simulation**: Simulated voice actions (speak, mute, deafen)
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 src/
@@ -61,7 +61,7 @@ src/
     └── ConsoleUtil.java        # Console formatting and input helpers
 ```
 
-## 🏗️ OOP Principles Demonstrated
+##  OOP Principles Demonstrated
 
 ### 1. Encapsulation
 - All model classes use private fields with public getters/setters
@@ -94,7 +94,7 @@ Channel (abstract base)
 - User **has-a** FriendList and ServerList
 - Message **has-a** sender (User reference)
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Java 8 or higher
